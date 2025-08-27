@@ -1,0 +1,15 @@
+{
+  "name": "flk-store",
+  "version": "1.0.0",
+  "description": "FLK Store - Elevate Your Gaming Experience",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "gaming",
+    "software",
+    "
