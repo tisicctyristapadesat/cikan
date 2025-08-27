@@ -12,4 +12,19 @@
   "keywords": [
     "gaming",
     "software",
-    "
+    "digital-products",
+    "fivem",
+    "gaming-tools",
+    "flk"
+  ],
+  "author": "FLK Store",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/flk-store.git"
+  },
+  "homepage": "https://flkstore.vercel.app",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
